@@ -23,10 +23,11 @@ body{
   }
   .queryans{
     margin-top:30px;
+    font-size: 40px;
   }
   .resetscore,.autoplay{
     color:black;
-    background-color: white;
+    background-color: gold;
     border: none;
     font-size:16px;
     padding:10px 5px;
